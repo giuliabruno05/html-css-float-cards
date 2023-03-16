@@ -1,0 +1,44 @@
+/* regole generali */
+
+body{ 
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* header*/
+
+h1{ 
+    color:rgba(229,49,112,255);
+    text-align: center;
+}
+
+p{ 
+    text-align: center;
+}
+
+/*main*/
+
+
+.row{
+    
+
+}
+
+h3{
+    height: 10px; 
+
+
+}
+.cards{
+    background-color: black;
+    color:white;
+    width: calc(100%/3 - 20px);
+    float: right;
+    margin: 10px;
+
+}
+
+a{ 
+    color: rgba(105,200,227,255);
+    
+}
